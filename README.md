@@ -10,5 +10,4 @@ If a team won the game the result is considered 1, otherwise it is 0.
 
 Functionality to be added:
 
-next steps are to build a simple perceptron that weights each stat and can be called upon to modify weights for any team - 
-then it can uuse those weights to predict whether a team will win a game when dummy stats for the game are inputted.
+Allow users to provide their own input and test against the weights the program arrives at.
